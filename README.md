@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Nabila</h1>
+<h1 align="center">Hi 👋 I'm Nabila Mizuhara </h1>
 <h3 align="center">🌸 Information Systems Student | Web Developer | UI/UX & Graphic Design Enthusiast</h3>
 
 <p align="center">
