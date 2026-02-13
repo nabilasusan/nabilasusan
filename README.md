@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Nabila</h1>
+<h3 align="center">Web Developer Enthusiast 🚀</h3>
 
-<!--
-**nabilasusan/nabilasusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 Informatics Student
+- 💻 Focus on Web Development
+- 🌱 Currently learning Laravel & JavaScript
+- 📫 Reach me: your_email@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=nabilasusan&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasusan&layout=compact&theme=radical)
+
+---
+
+⭐ Always learning and building cool things!
