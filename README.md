@@ -1,22 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6CA6F1&height=190&section=header&text=Hi,%20I'm%20Nabila%20%F0%9F%91%8B&fontColor=ffffff&fontSize=38&animation=fadeIn" />
 
-# Hi 👋 I'm Nabila
-
-**Laravel Developer | Information Systems Student | UI/UX Designer**
+### Laravel Developer | Information Systems Student | UI/UX Designer
 
 I build clean and user-friendly web systems using Laravel.  
 Focused on dashboard, reporting, and KPI-based applications.
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=20&width=700&lines=Laravel+Developer;UI%2FUX+Designer;Building+Clean+Dashboard+Systems;Always+Learning+%F0%9F%92%99" />
-
-<img src="https://komarev.com/ghpvc/?username=nabilausan&label=Profile%20Views&color=007BFF&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=3A6EA5&size=20&width=650&lines=Laravel+Developer;UI%2FUX+Designer;Building+Clean+Dashboard+Systems;Always+Learning+New+Things+%F0%9F%92%99" />
 
 ---
 
-## 💠 Quick Card
+## 💙 Quick Card
 
-| 💙 About | 🎯 Focus |
-|---|---|
+| About | Focus |
+|-------|--------|
 | Laravel Developer & UI/UX Designer | Laravel CRUD & Reporting Dashboard |
 | Build clean KPI-based web apps | KPI System Development |
 | Environment: Laragon • Project IDX | Clean Admin Panel UI/UX + Deployment |
@@ -29,14 +25,14 @@ Focused on dashboard, reporting, and KPI-based applications.
 ---
 
 ## 🖥 Development Environment
-<img src="https://img.shields.io/badge/Laragon-007BFF?style=for-the-badge&logo=laragon&logoColor=white"/>
-<img src="https://img.shields.io/badge/Project%20IDX-007BFF?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laragon-3A6EA5?style=for-the-badge&logo=laragon&logoColor=white"/>
+<img src="https://img.shields.io/badge/Project%20IDX-3A6EA5?style=for-the-badge&logo=google&logoColor=white"/>
 
 ---
 
 ## 🤝 Connect
-- 📧 **nabila_2226240101@mhs.mdp.ac.id**
-- 📷 **https://instagram.com/nap.bila**
-- 💼 **https://linkedin.com/in/nabilamizuhara**
+📧 nabila_2226240101@mhs.mdp.ac.id  
+📷 https://instagram.com/nap.bila  
+💼 https://linkedin.com/in/nabilamizuhara  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6CA6F1&height=120&section=footer" />
